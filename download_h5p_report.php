@@ -23,7 +23,7 @@
  * 
  * @package local_h5pdownloadreport
  * @copyright 2023 Kevin Lee
- * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * @license MIT license, refer to /LICENSE file
  */
 
 
