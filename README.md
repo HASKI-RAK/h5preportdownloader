@@ -4,6 +4,9 @@ This Plugin was created for the Haski Project [https://haski-learning.de/]. It w
 
 #Installation
 
+1. Navigate to site administration -> Install plugins
+2. Drag and Drop zip file into area
+
 1. Download and unzip the file
 2. Move the folder h5preportdownloader to the /local directory in your moodle directory
 3. Visit your moodle site as an admin
